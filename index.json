@@ -26323,6 +26323,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MiMi",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.mimi",
+    "apk": "tachiyomi-vi.mimi-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MiMi",
+        "lang": "vi",
+        "id": "2558772350527638641",
+        "baseUrl": "https://mimimoe.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MiMiHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.mimihentai",
     "apk": "tachiyomi-vi.mimihentai-v1.4.2.apk",
