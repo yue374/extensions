@@ -26629,6 +26629,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TuSachXinhXinh",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
+    "apk": "tachiyomi-vi.tusachxinhxinh-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TuSachXinhXinh",
+        "lang": "vi",
+        "id": "8868105176150575136",
+        "baseUrl": "https://tusachxinhxinh12.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: UmeTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.umetruyen",
     "apk": "tachiyomi-vi.umetruyen-v1.4.8.apk",
