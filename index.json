@@ -26323,6 +26323,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: LoppyToon",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.loppytoon",
+    "apk": "tachiyomi-vi.loppytoon-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "LoppyToon",
+        "lang": "vi",
+        "id": "6580420139533147522",
+        "baseUrl": "https://loppytoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
     "apk": "tachiyomi-vi.lxhentai-v1.4.25.apk",
