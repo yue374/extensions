@@ -26773,6 +26773,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: ViHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.vihentai",
+    "apk": "tachiyomi-vi.vihentai-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ViHentai",
+        "lang": "vi",
+        "id": "4004369226840135398",
+        "baseUrl": "https://vi-hentai.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
     "apk": "tachiyomi-vi.vlogtruyen-v1.4.23.apk",
