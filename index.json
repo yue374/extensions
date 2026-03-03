@@ -26791,6 +26791,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: VinaHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.vinahentai",
+    "apk": "tachiyomi-vi.vinahentai-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "VinaHentai",
+        "lang": "vi",
+        "id": "4572372176917567711",
+        "baseUrl": "https://vinahentai.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
     "apk": "tachiyomi-vi.vlogtruyen-v1.4.23.apk",
