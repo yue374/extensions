@@ -26323,6 +26323,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: KamiComic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.kamicomic",
+    "apk": "tachiyomi-vi.kamicomic-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "KamiComic",
+        "lang": "vi",
+        "id": "4858507068999692510",
+        "baseUrl": "https://kamicomi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LoppyToon",
     "pkg": "eu.kanade.tachiyomi.extension.vi.loppytoon",
     "apk": "tachiyomi-vi.loppytoon-v1.4.1.apk",
