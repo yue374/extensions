@@ -21767,21 +21767,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf447.com",
+        "baseUrl": "https://wfwf448.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf447.com",
+        "baseUrl": "https://wfwf448.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf447.com",
+        "baseUrl": "https://wfwf448.com",
         "versionId": 1
       }
     ]
@@ -26444,6 +26444,38 @@
         "lang": "vi",
         "id": "8070257113818912648",
         "baseUrl": "https://mimihentai.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MinoTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.minotruyen",
+    "apk": "tachiyomi-vi.minotruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MinoTruyen Manga",
+        "lang": "vi",
+        "id": "1911829101129863006",
+        "baseUrl": "https://minotruyenv5.xyz",
+        "versionId": 1
+      },
+      {
+        "name": "MinoTruyen Comics",
+        "lang": "vi",
+        "id": "3751671803647824606",
+        "baseUrl": "https://minotruyenv5.xyz",
+        "versionId": 1
+      },
+      {
+        "name": "MinoTruyen Hentai",
+        "lang": "vi",
+        "id": "5865133728324986123",
+        "baseUrl": "https://minotruyenv5.xyz",
         "versionId": 1
       }
     ]
