@@ -26591,17 +26591,17 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.27.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.28.apk",
     "lang": "vi",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "sources": [
       {
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://lanhlungteam.com",
+        "baseUrl": "https://hongtruyentranh.com",
         "versionId": 1
       }
     ]
