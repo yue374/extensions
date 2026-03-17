@@ -26553,6 +26553,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: NhentaiClub",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nhentaiclub",
+    "apk": "tachiyomi-vi.nhentaiclub-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NhentaiClub",
+        "lang": "vi",
+        "id": "9124366814387777661",
+        "baseUrl": "https://nhentaiclub.site",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: OTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.otruyen",
     "apk": "tachiyomi-vi.otruyen-v1.4.1.apk",
