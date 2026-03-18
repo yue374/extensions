@@ -26895,6 +26895,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: YuriGarden",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.yurigarden",
+    "apk": "tachiyomi-vi.yurigarden-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "YuriGarden",
+        "lang": "vi",
+        "id": "2167942958141879673",
+        "baseUrl": "https://yurigarden.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ZetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
     "apk": "tachiyomi-vi.zettruyen-v1.4.2.apk",
