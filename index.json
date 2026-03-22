@@ -26589,6 +26589,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Panomic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.panomic",
+    "apk": "tachiyomi-vi.panomic-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Panomic",
+        "lang": "vi",
+        "id": "5418027692230441919",
+        "baseUrl": "https://panomic1.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
     "apk": "tachiyomi-vi.sayhentai-v1.4.19.apk",
