@@ -26481,6 +26481,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MoeTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.moetruyen",
+    "apk": "tachiyomi-vi.moetruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MoeTruyen",
+        "lang": "vi",
+        "id": "8689080191405841403",
+        "baseUrl": "https://moetruyen.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.15.apk",
