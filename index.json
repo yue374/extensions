@@ -26161,6 +26161,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: DamCoNuong",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.damconuong",
+    "apk": "tachiyomi-vi.damconuong-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "DamCoNuong",
+        "lang": "vi",
+        "id": "2680345917627448572",
+        "baseUrl": "https://damconuong.plus",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
     "apk": "tachiyomi-vi.doctruyen3q-v1.4.25.apk",
@@ -26307,10 +26325,10 @@
   {
     "name": "Tachiyomi: HentaiVNx",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnx",
-    "apk": "tachiyomi-vi.hentaivnx-v1.4.2.apk",
+    "apk": "tachiyomi-vi.hentaivnx-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -26879,17 +26897,17 @@
   {
     "name": "Tachiyomi: Vcomycs",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vcomycs",
-    "apk": "tachiyomi-vi.vcomycs-v1.4.2.apk",
+    "apk": "tachiyomi-vi.vcomycs-v1.4.4.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
         "name": "Vcomycs",
         "lang": "vi",
         "id": "5613705645187939531",
-        "baseUrl": "https://vivicomi16.info",
+        "baseUrl": "https://vivicomi18.info",
         "versionId": 1
       }
     ]
