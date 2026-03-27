@@ -26161,6 +26161,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ariverse",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.ariverse",
+    "apk": "tachiyomi-vi.ariverse-v1.4.46.apk",
+    "lang": "vi",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Ariverse",
+        "lang": "vi",
+        "id": "4480433466073326866",
+        "baseUrl": "https://arigl.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DamCoNuong",
     "pkg": "eu.kanade.tachiyomi.extension.vi.damconuong",
     "apk": "tachiyomi-vi.damconuong-v1.4.1.apk",
