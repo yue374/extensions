@@ -26841,6 +26841,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: TruyenTuoiTho",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
+    "apk": "tachiyomi-vi.truyentuoitho-v1.4.46.apk",
+    "lang": "vi",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TruyenTuoiTho",
+        "lang": "vi",
+        "id": "401563321854321005",
+        "baseUrl": "https://truyentuoitho.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
     "apk": "tachiyomi-vi.truyenvn-v1.4.61.apk",
