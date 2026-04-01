@@ -26197,6 +26197,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: DaoMeoDen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.daomeoden",
+    "apk": "tachiyomi-vi.daomeoden-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "DaoMeoDen",
+        "lang": "vi",
+        "id": "3635786412332322062",
+        "baseUrl": "https://daomeoden.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
     "apk": "tachiyomi-vi.doctruyen3q-v1.4.25.apk",
