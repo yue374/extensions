@@ -26733,6 +26733,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: ThienThaiTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
+    "apk": "tachiyomi-vi.thienthaitruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ThienThaiTruyen",
+        "lang": "vi",
+        "id": "4424472966200672277",
+        "baseUrl": "https://thienthaitruyen8.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
     "apk": "tachiyomi-vi.toptruyen-v1.4.27.apk",
@@ -26800,6 +26818,24 @@
         "lang": "vi",
         "id": "6484094278517548634",
         "baseUrl": "https://truyenhentai18.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TruyenHentaivn",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentaivn",
+    "apk": "tachiyomi-vi.truyenhentaivn-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TruyenHentaivn",
+        "lang": "vi",
+        "id": "2450247754585878955",
+        "baseUrl": "https://truyenhentaivn.club",
         "versionId": 1
       }
     ]
@@ -26890,6 +26926,24 @@
         "lang": "vi",
         "id": "5758845301840022147",
         "baseUrl": "https://truyenvn.shop",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TuiTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.tuitruyen",
+    "apk": "tachiyomi-vi.tuitruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TuiTruyen",
+        "lang": "vi",
+        "id": "4438807780413463687",
+        "baseUrl": "https://tuitruyen.top",
         "versionId": 1
       }
     ]
