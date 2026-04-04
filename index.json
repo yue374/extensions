@@ -27093,6 +27093,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: YuriNeko",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.yurineko",
+    "apk": "tachiyomi-vi.yurineko-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "YuriNeko",
+        "lang": "vi",
+        "id": "4413681066613655890",
+        "baseUrl": "https://yurinekoz.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ZetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.zettruyen",
     "apk": "tachiyomi-vi.zettruyen-v1.4.2.apk",
