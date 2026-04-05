@@ -27005,17 +27005,17 @@
   {
     "name": "Tachiyomi: Vcomycs",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vcomycs",
-    "apk": "tachiyomi-vi.vcomycs-v1.4.4.apk",
+    "apk": "tachiyomi-vi.vcomycs-v1.4.7.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
         "name": "Vcomycs",
         "lang": "vi",
         "id": "5613705645187939531",
-        "baseUrl": "https://vivicomi18.info",
+        "baseUrl": "https://vivicomi19.info",
         "versionId": 1
       }
     ]
