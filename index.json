@@ -26553,6 +26553,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MoonTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.moontruyen",
+    "apk": "tachiyomi-vi.moontruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MoonTruyen",
+        "lang": "vi",
+        "id": "6728458353942273215",
+        "baseUrl": "https://moontruyen.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
     "apk": "tachiyomi-vi.nettruyenco-v1.4.15.apk",
