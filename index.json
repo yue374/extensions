@@ -26253,17 +26253,17 @@
   {
     "name": "Tachiyomi: Dua Leo Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
-    "apk": "tachiyomi-vi.dualeotruyen-v1.4.11.apk",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
         "name": "Dưa Leo Truyện",
         "lang": "vi",
         "id": "1039830224122325226",
-        "baseUrl": "https://dualeotruyenvh.com",
+        "baseUrl": "https://dualeotruyensg.com",
         "versionId": 1
       }
     ]
