@@ -26413,6 +26413,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: LuotTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.luottruyen",
+    "apk": "tachiyomi-vi.luottruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "LuotTruyen",
+        "lang": "vi",
+        "id": "6560112192335153780",
+        "baseUrl": "https://luottruyen1.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
     "apk": "tachiyomi-vi.lxhentai-v1.4.25.apk",
