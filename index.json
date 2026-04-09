@@ -26607,6 +26607,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: NetTruyenViet (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenviet",
+    "apk": "tachiyomi-vi.nettruyenviet-v1.4.8.apk",
+    "lang": "vi",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NetTruyenViet (unoriginal)",
+        "lang": "vi",
+        "id": "3975552840628459451",
+        "baseUrl": "https://nettruyenviet10.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NetTruyenX (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenx",
     "apk": "tachiyomi-vi.nettruyenx-v1.4.7.apk",
@@ -26823,6 +26841,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Truyen18",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyen18",
+    "apk": "tachiyomi-vi.truyen18-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Truyen18",
+        "lang": "vi",
+        "id": "7451996450063331380",
+        "baseUrl": "https://truyen18.co",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FoxTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
     "apk": "tachiyomi-vi.truyengg-v1.4.10.apk",
@@ -26872,6 +26908,24 @@
         "lang": "vi",
         "id": "2450247754585878955",
         "baseUrl": "https://truyenhentaivn.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TruyenHentaiz",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenhentaiz",
+    "apk": "tachiyomi-vi.truyenhentaiz-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TruyenHentaiz",
+        "lang": "vi",
+        "id": "7162158808407514407",
+        "baseUrl": "https://truyenhentaiz.net",
         "versionId": 1
       }
     ]
@@ -26944,6 +26998,24 @@
         "lang": "vi",
         "id": "401563321854321005",
         "baseUrl": "https://truyentuoitho.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TruyenTVN",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyentvn",
+    "apk": "tachiyomi-vi.truyentvn-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TruyenTVN",
+        "lang": "vi",
+        "id": "3322517246209230294",
+        "baseUrl": "https://truyentvn.net",
         "versionId": 1
       }
     ]
